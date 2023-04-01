@@ -38,12 +38,13 @@ body {
 a {
   color: #333;
   text-decoration: none;
+  font-weight: 510;
 }
 
 .active {
   color: #8a4baf;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 
