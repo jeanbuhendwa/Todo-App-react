@@ -39,9 +39,11 @@ a {
   color: #333;
   text-decoration: none;
 }
-/* Active route */
+
 .active {
   color: #8a4baf;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 
